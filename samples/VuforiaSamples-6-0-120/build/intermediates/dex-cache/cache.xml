@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/enrico/Downloads/vuforia-sdk-android-6-0-117/samples/VuforiaSamples-6-0-120/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="be5090fe7a379384c08052eb6bab061ed4a74215">
+        <dex dex="/Users/enrico/Downloads/vuforia-sdk-android-6-0-117/samples/VuforiaSamples-6-0-120/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0ca57ec8eb624ce1e8bac77bb9e2f21f351875d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/enrico/Downloads/vuforia-sdk-android-6-0-117/build/java/vuforia/Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="68bf3aa0a0e9c14d708c2c6cdbd475aee6ca9dfe">
+        <dex dex="/Users/enrico/Downloads/vuforia-sdk-android-6-0-117/samples/VuforiaSamples-6-0-120/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_bde1852482140ca28628d6f1a5a48f326ff3ca27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/enrico/Downloads/vuforia-sdk-android-6-0-117/samples/VuforiaSamples-6-0-120/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8120b8f8ed564908301f77f239b0f488c8bc45ab">
+        <dex dex="/Users/enrico/Downloads/vuforia-sdk-android-6-0-117/samples/VuforiaSamples-6-0-120/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_762de7440402e80a1b26203b74a5b266530d88a7/classes.dex" />
+    </item>
+
+</items>
